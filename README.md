@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ![Dashbord](/Front.png)
 # 🌌 Forzentix Team Portfolio
 
