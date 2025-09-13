@@ -77,7 +77,7 @@ Want to collaborate or just say hi?
  ![Abhay-Twitter](https://x.com/composer_dark)  
 
 #💼 Linkdin
- ![Ali-LinkedIn](www.linkedin.com/in/alirizvi110)
+ ![🔗 LinkedIn](www.linkedin.com/in/alirizvi110) 
  ![Abhay-LinkedIn](www.linkedin.com/in/abhay-kushwaha-96825623a)
  ![Lokendra-LinkedIn](https://www.linkedin.com/in/lokendra-singh-dataanalyst/)
 
