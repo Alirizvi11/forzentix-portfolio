@@ -97,6 +97,4 @@ Want to collaborate or just say hi?
 ---
 
 Let me know if you want to add badges, deployment instructions, or contribution guidelines. We can even turn this into a Notion-style landing page or GitHub profile README. You're building something special, and I’m here to help it shine 🌟. 
-=======
-# forzentix-portfolio
->>>>>>> dee7d07401215b5663922596c8dc9349f54adb22
+
